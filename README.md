@@ -11,7 +11,11 @@ The KSAE is an unsurpervised learning algorithm, please keep this in mind when d
 About the folder:
 
 Autoencoders/ - the KSAE codes, training codes, and deploying codes
+
 FileOps/ - some IO operations
+
 SQS/ - 2D image reconstruction sample
+
 SQS3D/ - 3D image reconstruction sample
+
 pythonWrapper/ - python interface for image reconstruction. The core CUDA code is not included here. 
